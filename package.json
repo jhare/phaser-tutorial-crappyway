@@ -1,0 +1,22 @@
+{
+  "name": "phaser-tutorial-crappyway",
+  "version": "1.0.0",
+  "description": "Following the weird initial instructions; seeing what's up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhare/phaser-tutorial-crappyway.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhare/phaser-tutorial-crappyway/issues"
+  },
+  "homepage": "https://github.com/jhare/phaser-tutorial-crappyway#readme",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
